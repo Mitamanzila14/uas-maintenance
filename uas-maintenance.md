@@ -4,7 +4,7 @@
 
 - **Nama Aplikasi** : WPU Admin – Sistem Manajemen Pengguna  
 - **Versi** : 1.0  
-- **Repository / URL** : http://localhost/wpu-login  github : https://github.com/Mitamanzila14/wpu-login
+- **Repository / URL** : https://github.com/Mitamanzila14/uas-maintenance.git
 - **Nama Penyusun** : Mita Manzila Tusifa  
 - **Tanggal Pembuatan Dokumentasi** : 20 Juni 2025
 
